@@ -3,8 +3,7 @@ This SwiftUI project is a result of the second 'milestone' in "Hacking With Swif
 
 In this simple multiplication practice app, the user is prompted to select a times table, the amount of questions they would like to be aksed, and if they want to take a quiz or study for that particualar times table.
 
-This project follows the guidelines <a href="https://www.hackingwithswift.com/guide/ios-swiftui/3/3/challenge" target="_blank">here</a>
-, from Paul Hudson's "100 Days of Swift UI" tutorial program.
+This project follows the brief <a href="https://www.hackingwithswift.com/guide/ios-swiftui/3/3/challenge" target="_blank">here</a>, from Paul Hudson's "100 Days of Swift UI" tutorial program.
 
 Please see the below video of the app run on an iPhone 14 Pro simulator.
 
